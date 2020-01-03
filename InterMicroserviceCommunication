@@ -1,0 +1,3 @@
+first microserver is employee-producer, produces Employee.
+Second microservice consumer, consumes Employee, which produces by Service Producer.
+Used DisCoveryClient and RestTemplate for communication and both project are Eureka register(In Git EurekaServerClient named repository)
